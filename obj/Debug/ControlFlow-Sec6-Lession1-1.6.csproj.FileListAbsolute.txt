@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\bin\Debug\ControlFlow-Sec6-Lession1-1.6.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\bin\Debug\ControlFlow-Sec6-Lession1-1.6.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\bin\Debug\ControlFlow-Sec6-Lession1-1.6.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\obj\Debug\ControlFlow-Sec6-Lession1-1.6.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\obj\Debug\ControlFlow-Sec6-Lession1-1.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\obj\Debug\ControlFlow-Sec6-Lession1-1.6.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\obj\Debug\ControlFlow-Sec6-Lession1-1.6.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\ControlFlow-Sec6-Lession1-1.6\ControlFlow-Sec6-Lession1-1.6\obj\Debug\ControlFlow-Sec6-Lession1-1.6.pdb
